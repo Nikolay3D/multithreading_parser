@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/dir_parser/.vs
+/dir_parser/Debug
+/dir_parser/x64/Debug
+/Test/out/out.txt
+/Test/out/Test_etalon.txt
+/Test/*.txt
+/dir_parser/x64/Debug_test
